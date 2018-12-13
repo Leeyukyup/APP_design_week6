@@ -11,14 +11,8 @@
 }
 .box_2 {
 }
-.ellipse {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-._图片 {
-}
-.placeholder {
+._形状 {
+  color:#666666;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -64,35 +58,7 @@
 ._文本段落 {
   text-align:left;
 }
-._流程形状 {
-}
 ._连接线 {
 }
-._形状 {
-}
-.line {
-}
-.arrow {
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.text_area {
-  color:#000000;
-  text-align:left;
-}
-.label {
-  font-size:14px;
-  text-align:left;
-}
-.icon {
-}
 .flow_shape {
-}
-._水平线 {
-}
-._垂直线 {
-}
-.image {
 }
